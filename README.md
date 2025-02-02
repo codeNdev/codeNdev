@@ -1,4 +1,13 @@
-## Hi there 👋
+
+## Hi there! 👋 I'm Rituraj Chanda
+
+Welcome to my GitHub profile! I'm a passionate developer and ML enthusiast who loves exploring new technologies and solving complex problems. 🚀
+
+### 🔭 Currently Working On
+- Software development with Java Spring Boot and Spring Cloud Gateway ⚙️
+- Writing JUnit tests to improve code coverage 📊
+- Exploring AI/ML applications 🤖
+
 
 <!--
 **codeNdev/codeNdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
