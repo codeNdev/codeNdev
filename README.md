@@ -1,6 +1,11 @@
 
-## Hi there! 👋 I'm Rituraj Chanda
+<h1 align="center">Hi there, I'm Rituraj Chanda 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Backend+Developer+using+Spring+Boot+%E2%9A%99%EF%B8%8F;DSA+Problem+Solver+%F0%9F%A7%A0;Good+At+Low+Level+Design+%F0%9F%92%BB;Learning+Machine+Learning+%F0%9F%A4%96;Math+%26+Finance+Enthusiast+%F0%9F%92%B8" alt="Typing SVG" />
+</p>
+
+---
 Welcome to my GitHub profile! I'm a passionate developer and ML enthusiast who loves exploring new technologies and solving complex problems. 🚀
 
 ### 🔭 Currently Working On
@@ -13,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer and ML enthusiast who l
 - Advanced topics in **Spring Boot** and **Spring Cloud** 🧑‍💻
 
 ### 💡 My Skills
-- **Languages**: Java, JavaScript, TypeScript, Python
+- **Languages**: C/C++, Java, JavaScript, Python
 - **Frameworks**: Spring Boot, Spring Cloud Gateway, React, Express, Node.js
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker, Kubernetes, JUnit, Maven, Gradle
