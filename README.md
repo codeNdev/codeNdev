@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Rituraj Chanda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Backend+Developer+using+Spring+Boot+%E2%9A%99%EF%B8%8F;Spring+Cloud+Gateway+Expert+%F0%9F%93%A1;Strong+in+Multithreading+%26+Concurrency+%E2%9A%A1;Kubernetes+%26+Microservices+Orchestration+%F0%9F%90%B3;Good+at+Low+Level+Design+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A0;Learning+Machine+Learning+%F0%9F%A4%96;Math+%26+Finance+Enthusiast+%F0%9F%92%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Backend+Developer+using+Spring+Boot+%E2%9A%99%EF%B8%8F;And+Spring+Cloud+Gateway+%F0%9F%93%A1;Strong+in+Multithreading+%26+Concurrency+%E2%9A%A1;Kubernetes+%26+Microservices+Orchestration+%F0%9F%90%B3;Good+at+Low+Level+Design+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A0;Learning+Machine+Learning+%F0%9F%A4%96;Math+%26+Finance+Enthusiast+%F0%9F%92%B8" alt="Typing SVG" />
 </p>
 
 ---
