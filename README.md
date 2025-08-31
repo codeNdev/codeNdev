@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer and ML enthusiast who l
 Feel free to open issues, contribute, or simply drop a message! 🚀
 
 - [LinkedIn](https://www.linkedin.com/in/riturajchanda2001/)
-
+- [LeetCode](https://leetcode.com/u/AxeWithArrow/) : Guardian (Highest badge) | MaxRating (2308) | Top 0.5% Coders Globally
 <!--
 **codeNdev/codeNdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
